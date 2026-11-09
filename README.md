@@ -1,5 +1,8 @@
 # Repo Migration Script
 
+> [!WARNING]
+> **Deprecated:** this project is no longer maintained. The repository is archived and read-only; the code stays available as-is.
+
 ## Introduction / Backgoround
 I used JetBrains Spaces for all my repos.  With them shuttdown that service I had to migrate a lot of repo's out.  I wrote this script so that I could take the locally downloaded version and migrate it to another Git Repo (Azure DevOps).
 
